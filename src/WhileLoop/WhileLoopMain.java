@@ -1,8 +1,10 @@
+package WhileLoop;
+
 import java.io.IOException;
 
 public class WhileLoopMain {
     public static void main(String[] args) throws IOException {
-        // WhileLoop:
+        // WhileLoop.WhileLoop:
         int whileLoopNoDo = 4;
         WhileLoop whileLoop1 = new WhileLoop();
         whileLoop1.WhileLoopNoDo(whileLoopNoDo);

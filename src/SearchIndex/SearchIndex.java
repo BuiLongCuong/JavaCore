@@ -1,3 +1,5 @@
+package SearchIndex;
+
 public class SearchIndex {
     public int linearSearch(int[] number,int index) {
         for (int i = 0; i < number.length; i++) {

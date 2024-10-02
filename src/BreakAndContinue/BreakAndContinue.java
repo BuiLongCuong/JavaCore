@@ -1,3 +1,5 @@
+package BreakAndContinue;
+
 public class BreakAndContinue {
     public void breakFunc(){
         for (int i = 0; i < 7; i++) {

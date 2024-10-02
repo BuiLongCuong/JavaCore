@@ -1,3 +1,5 @@
+package WhileLoop;
+
 public class WhileLoop {
     public void WhileLoopNoDo(int whileLoop) {
         while (whileLoop < 10) {

@@ -1,3 +1,5 @@
+package SearchIndex;
+
 import java.io.IOException;
 
 public class SearchMain {
