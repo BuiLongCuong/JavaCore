@@ -10,18 +10,18 @@ public class SearchIndex {
         return -1;
     }
 
-    public int binarySearch(int[] number, int index) {
+    public int binarySearch(int[] numbers, int number) {
         int left = 0;
-        int right = number.length - 1;
+        int right = numbers.length - 1;
         while (right >= left) {
             int mid = (right + left)/2;
-            if(index == number[mid]) {
+            if(number == numbers[mid]) {
                 return mid;
             }
-            if(index > number[mid]) {
+            if(number > numbers[mid]) {
                 left = mid + 1;
             }
-            if(index < number[mid]) {
+            if(number < numbers[mid]) {
                 right = mid - 1;
             }
         }

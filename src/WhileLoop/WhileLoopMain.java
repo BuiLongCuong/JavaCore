@@ -7,7 +7,7 @@ public class WhileLoopMain {
         // WhileLoop.WhileLoop:
         int whileLoopNoDo = 4;
         WhileLoop whileLoop1 = new WhileLoop();
-        whileLoop1.WhileLoopNoDo(whileLoopNoDo);
+//        whileLoop1.WhileLoopNoDo(whileLoopNoDo);
 
         // DoWhile:
         int doWhile = 2;

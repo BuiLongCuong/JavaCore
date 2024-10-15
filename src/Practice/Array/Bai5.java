@@ -3,10 +3,10 @@ package Practice.Array;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Baii5 {
+public class Bai5 {
     public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);
-
+        System.out.print("Nhập số lượng phần tử có trong 1 mảng bạn mong muốn: ");
         int number = scanner.nextInt();
         int[] numbers = new int[number];
 
@@ -17,7 +17,6 @@ public class Baii5 {
 
         System.out.print("Mảng mà chúng ta có được là: numbers[");
         for (int i = 0; i < numbers.length; i++) {
-
             if (i != numbers.length - 1) {
                 System.out.print(numbers[i] + ",");
             } else {
@@ -59,6 +58,9 @@ public class Baii5 {
         for (int i = 1; i <= number; i++) {
             if (number % i == 0) {
                 countFactors++;
+            }
+            if (countFactors > 2) {
+                return false;
             }
         }
 

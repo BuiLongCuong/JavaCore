@@ -1,0 +1,23 @@
+------------- Thông tin khách hàng ------------- 
+ID: 7,Phạm Nhật Minh,Ân Mỹ,0121,MUA_LE
+------------- Danh sách các mặt hàng ------------- 
+ID: 7,Áo thun,HANG_THOI_TRANG,150000.0,với số lượng là ,200
+ID: 11,Máy giặt LG,HANG_DIEN_MAY,800000.0,với số lượng là ,100
+ID: 9,TV SamSung,HANG_DIEN_MAY,1.2E7,với số lượng là ,100
+------------- Thông tin khách hàng ------------- 
+ID: 8,Phạm Quang Hải,Bồng Sơn,0126,MUA_BUON
+------------- Danh sách các mặt hàng ------------- 
+ID: 10,Nồi Cơm điện,HANG_GIA_DUNG,60000.0,với số lượng là ,200
+ID: 7,Áo thun,HANG_THOI_TRANG,150000.0,với số lượng là ,150
+ID: 8,Nước giặt,HANG_TIEU_DUNG,50000.0,với số lượng là ,300
+ID: 12,Sữa tắm Dove,HANG_TIEU_DUNG,75000.0,với số lượng là ,300
+------------- Thông tin khách hàng ------------- 
+ID: 1,Phạm Nhật Minh,Ân Mỹ,0121,MUA_LE
+------------- Danh sách các mặt hàng ------------- 
+ID: 4,Nồi Cơm điện,HANG_GIA_DUNG,60000.0,với số lượng là ,1
+ID: 3,TV SamSung,HANG_DIEN_MAY,1.2E7,với số lượng là ,3
+------------- Thông tin khách hàng ------------- 
+ID: 2,Nguyễn Văn Chánh,Ân Tín,0122,MUA_BUON
+------------- Danh sách các mặt hàng ------------- 
+ID: 2,Nước giặt,HANG_TIEU_DUNG,50000.0,với số lượng là ,50
+ID: 6,Sữa tắm Dove,HANG_TIEU_DUNG,75000.0,với số lượng là ,50

@@ -4,7 +4,6 @@ import java.io.*;
 import java.util.Scanner;
 
 public class FileHandling {
-
     public void WriteFile(File file) throws IOException {
         FileWriter fileWriter = new FileWriter(file);
         fileWriter.write("Hello everyone");

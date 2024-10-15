@@ -2,17 +2,17 @@ package BreakAndContinue;
 
 public class BreakAndContinue {
     public void breakFunc(){
-        for (int i = 0; i < 7; i++) {
+        for (int i = 0; i < 5; i++) {
             System.out.println(i);
-            if(i == 3) {
+            if(i == 2) {
                 break;
             }
         }
     }
 
     public void continueFunc(){
-        for (int j = 0; j < 7; j++) {
-            if(j == 3) {
+        for (int j = 0; j < 5; j++) {
+            if(j == 2) {
                 continue;
             }
             System.out.println(j);

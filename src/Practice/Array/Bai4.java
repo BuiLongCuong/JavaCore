@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Bai4 {
     public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);
-
+        System.out.print("Nhập số lượng phần tử có trong 1 mảng bạn mong muốn: ");
         int number = scanner.nextInt();
         int[] numbers = new int[number];
 

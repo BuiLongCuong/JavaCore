@@ -15,8 +15,8 @@ public class ForLoopMain {
         String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
 
         ForLoop forLoop = new ForLoop();
-        forLoop.forI();
-        forLoop.forEachCar(cars);
+//        forLoop.forI();
+//        forLoop.forEachCar(cars);
         forLoop.forEachNumber(arrayList);
 
     }

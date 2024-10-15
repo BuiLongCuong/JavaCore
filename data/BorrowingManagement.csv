@@ -1,0 +1,18 @@
+----- Thông tin người đọc -----
+ID người đọc: 1,Phạm Thu Ngân,Hoài Nhơn,0987569466,SINH_VIEN
+----- Danh sách sách đã mượn -----
+ID sách: 7,Thinking In Java,Bruce Eckel,CONG_NGHE_THONG_TIN,1988, đã được mượn với số lượng là ,1,  cuốn
+ID sách: 2,Trăm năm cô đơn,Gabriel García Márquez,VAN_HOC_VA_NGHE_THUAT,1946, đã được mượn với số lượng là ,1,  cuốn
+----- Thông tin người đọc -----
+ID người đọc: 1,Phạm Thu Ngân,Hoài Nhơn,0987569466,SINH_VIEN
+----- Danh sách sách đã mượn -----
+ID sách: 3,Vũ trụ,Carl Sagan,KHTN,1863, đã được mượn với số lượng là ,1,  cuốn
+----- Thông tin người đọc -----
+ID người đọc: 1,Phạm Thu Ngân,Hoài Nhơn,0987569466,SINH_VIEN
+----- Danh sách sách đã mượn -----
+ID sách: 5,Máy Điện và Mạch Điều Khiển,Nguyễn Văn A,DIEN_TU_VIEN_THONG,1989, đã được mượn với số lượng là ,2, cuốn
+----- Thông tin người đọc -----
+ID người đọc: 4,Nguyễn Thái Nghi,Vạn Hội,0976843266,SINH_VIEN
+----- Danh sách sách đã mượn -----
+ID sách: 2,Trăm năm cô đơn,Gabriel García Márquez,VAN_HOC_VA_NGHE_THUAT,1946, đã được mượn với số lượng là ,1, cuốn
+ID sách: 6,The Industries of the Future,Alec Ross,CONG_NGHE_THONG_TIN,1945, đã được mượn với số lượng là ,2, cuốn
